@@ -1,11 +1,6 @@
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from './pages/HomePage';
-import SolarForm from './pages/SolarForm';
-import Performance from './pages/Performance';
-import Resources from './pages/Resources';
-import Dashboard from './pages/Dashboard';
-import Optimizer from './pages/Optimizer';
 import CCUSTechnology from './pages/CCUS_technology';
 import Hydrogen from './pages/Hydrogen';
 import BiofuelDevelopment from './pages/Biofuels_development';
