@@ -7,7 +7,7 @@ const HomePage = () => {
       {/* Header Section */}
       <nav className="bg-[#d0e6b5] py-8 shadow-md">
         <div className="max-w-7xl mx-auto px-4">
-          <h1 className="text-6xl font-extrabold text-center text-black">HPCL GREEN</h1>
+          <h1 className="text-6xl font-extrabold text-center text-green-600">HPCL GREEN</h1>
           <p className="text-xl text-center font-bold mt-4">HPCL's Comprehensive Green Energy Diversification Strategy</p>
         </div>
       </nav>

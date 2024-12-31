@@ -1,7 +1,6 @@
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from './pages/HomePage';
-import TariffMonitor from './pages/TariffMonitor';
 import SolarForm from './pages/SolarForm';
 import Performance from './pages/Performance';
 import Resources from './pages/Resources';
