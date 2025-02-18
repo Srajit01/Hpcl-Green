@@ -1,6 +1,29 @@
 import { Activity,Album, BarChart2, Clock, TrendingUp, Sun, Bell ,MapPin, Battery, Briefcase, Leaf, ArrowRight,Fuel, Truck, Wallet, Globe, ChevronRight} from 'lucide-react';
 
 export const boxConfigs = [
+  // New Boxes at the Top
+  {
+    id: 7,
+    title: "Petrochemical Expansion",
+    description: "Petrochemical Demand Forecasting Model",
+    icon: Briefcase,  // Choose a relevant icon
+    path: "/petrochemical-expansion"
+  },
+  {
+    id: 8,
+    title: "Digital Transformation",
+    description: "Cloud-Based Real-Time Monitoring & KPI Tracking System",
+    icon: Battery, // Choose a relevant icon
+    path: "/digital-transformation"
+  },
+  {
+    id: 9,
+    title: "Green Hydrogen Initiatives",
+    description: "Exploring and Implementing Green Hydrogen Projects",
+    icon: Leaf,  // Choose a relevant icon
+    path: "/green-hydrogen-initiatives"
+  },
+
   {
     id: 1,
     title: "CCUS Technology",
