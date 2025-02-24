@@ -1,4 +1,4 @@
+@import 'leaflet-routing-machine/dist/leaflet-routing-machine.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import 'leaflet-routing-machine/dist/leaflet-routing-machine.css';
